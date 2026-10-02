@@ -6,6 +6,10 @@ Not a live service. Example venue in the copy is Knotting Hills in Pevely, Misso
 
 ## Live
 
-https://cedarriverlabs.github.io/ready-suit-go/
+https://cedarriverlabs.github.io/home-feud/ready-suit-go/
 
-Same public GitHub Pages setup as Warsaw Guide and Home Feud.
+Published on the existing Cedar River Labs GitHub Pages site so the link works without a new Pages enablement. Source of truth is this repo, with the same Pages workflow as Warsaw Guide.
+
+Clean URL once Pages is enabled on this repo (Settings → Pages → GitHub Actions):
+
+https://cedarriverlabs.github.io/ready-suit-go/
