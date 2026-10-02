@@ -1,8 +1,8 @@
 # Ready Suit Go
 
-Standalone Cedar River Labs sample. Post-wedding rental suit return: venue locker or scheduled pickup, photo checklist before anything changes hands.
+Customer-facing preview. A guest books a post-wedding rental return, drops the suit in a venue locker or hands it off, and gets a text when the shop has it.
 
-Not a live service. Knotting Hills in Pevely, Missouri is the example in the copy, not a partner.
+Not a live service. Knotting Hills is an example venue in the form, not a partner.
 
 ## Host
 
