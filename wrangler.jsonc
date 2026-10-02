@@ -1,0 +1,13 @@
+{
+  "name": "ready-suit-go",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./site"
+  },
+  "routes": [
+    {
+      "pattern": "readysuitgo.cedarriverlabs.com",
+      "custom_domain": true
+    }
+  ]
+}

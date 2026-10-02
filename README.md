@@ -1,15 +1,18 @@
 # Ready Suit Go
 
-Cedar River Labs sample site for a post-wedding rental suit return. Guests drop suits in a venue locker or hand them to a scheduled pickup. Photo checklist is the liability line.
+Standalone Cedar River Labs sample. Post-wedding rental suit return: venue locker or scheduled pickup, photo checklist before anything changes hands.
 
-Not a live service. Example venue in the copy is Knotting Hills in Pevely, Missouri — not a partner.
+Not a live service. Knotting Hills in Pevely, Missouri is the example in the copy, not a partner.
 
-## Live
+## Host
 
-https://cedarriverlabs.github.io/home-feud/ready-suit-go/
+Cloudflare Worker, same pattern as `app.cedarriverlabs.com` and `wsc.cedarriverlabs.com`.
 
-Published on the existing Cedar River Labs GitHub Pages site so the link works without a new Pages enablement. Source of truth is this repo, with the same Pages workflow as Warsaw Guide.
+- Worker: `ready-suit-go`
+- Domain: `https://readysuitgo.cedarriverlabs.com`
 
-Clean URL once Pages is enabled on this repo (Settings → Pages → GitHub Actions):
+```
+npx wrangler deploy
+```
 
-https://cedarriverlabs.github.io/ready-suit-go/
+Assets live in `site/`.
